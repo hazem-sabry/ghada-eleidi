@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'stc';
+  src: url('../fonts/stc.eot?#iefix');
+  src: local('STC'), local('stc'), url('../fonts/stc.woff') format('woff');
+}
